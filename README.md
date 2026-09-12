@@ -1,0 +1,1 @@
+Public evidence hosting for the PRDCT-14227 PR (anonymous image embeds for logged-out reviewers). Non-sensitive: public API-documentation renders.
